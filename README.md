@@ -12,7 +12,7 @@ https://drive.google.com/file/d/14CnVBRZYI1T18MRiTBToIj3Idku7MsC9/view?usp=drive
 Осуществляет перевод другому пользователю
 
 Включает в себя 3 параметра:
-```
+```javascript
 api_token ```- обязательный - ваш токен (str)
 
 to - обязательный - кому перевести (int)
