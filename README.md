@@ -3,6 +3,10 @@
 ```javascript
 import paper
 ```
+Ссылка для скачивания библиотеки:
+```javascript
+https://drive.google.com/file/d/14CnVBRZYI1T18MRiTBToIj3Idku7MsC9/view?usp=drivesdk
+```
 
 # send
 Осуществляет перевод другому пользователю
